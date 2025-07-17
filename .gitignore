@@ -1,0 +1,9 @@
+*.csv
+*.json
+*.parquet
+*.log
+*.tmp
+*.bak
+/logs/
+/plugins/
+/data/
